@@ -1,4 +1,4 @@
-# Express Social Api
+# Express  Api
 
 Social Api is an example of a working version of api for a social network on Node Express
 
